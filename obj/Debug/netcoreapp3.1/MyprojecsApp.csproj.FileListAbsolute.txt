@@ -1,0 +1,13 @@
+C:\projecs\ConsoleApp2\bin\Debug\netcoreapp3.1\MyprojecsApp.exe
+C:\projecs\ConsoleApp2\bin\Debug\netcoreapp3.1\MyprojecsApp.deps.json
+C:\projecs\ConsoleApp2\bin\Debug\netcoreapp3.1\MyprojecsApp.runtimeconfig.json
+C:\projecs\ConsoleApp2\bin\Debug\netcoreapp3.1\MyprojecsApp.runtimeconfig.dev.json
+C:\projecs\ConsoleApp2\bin\Debug\netcoreapp3.1\MyprojecsApp.dll
+C:\projecs\ConsoleApp2\bin\Debug\netcoreapp3.1\MyprojecsApp.pdb
+C:\projecs\ConsoleApp2\obj\Debug\netcoreapp3.1\MyprojecsApp.csprojAssemblyReference.cache
+C:\projecs\ConsoleApp2\obj\Debug\netcoreapp3.1\MyprojecsApp.csproj.CoreCompileInputs.cache
+C:\projecs\ConsoleApp2\obj\Debug\netcoreapp3.1\MyprojecsApp.AssemblyInfoInputs.cache
+C:\projecs\ConsoleApp2\obj\Debug\netcoreapp3.1\MyprojecsApp.AssemblyInfo.cs
+C:\projecs\ConsoleApp2\obj\Debug\netcoreapp3.1\MyprojecsApp.dll
+C:\projecs\ConsoleApp2\obj\Debug\netcoreapp3.1\MyprojecsApp.pdb
+C:\projecs\ConsoleApp2\obj\Debug\netcoreapp3.1\MyprojecsApp.genruntimeconfig.cache
