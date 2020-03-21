@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projecs\\ConsoleApp2\\MyprojecsApp.csproj": {}
+    "C:\\projects\\Zadaza 1\\MyprojecsApp.csproj": {}
   },
   "projects": {
-    "C:\\projecs\\ConsoleApp2\\MyprojecsApp.csproj": {
+    "C:\\projects\\Zadaza 1\\MyprojecsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projecs\\ConsoleApp2\\MyprojecsApp.csproj",
+        "projectUniqueName": "C:\\projects\\Zadaza 1\\MyprojecsApp.csproj",
         "projectName": "MyprojecsApp",
-        "projectPath": "C:\\projecs\\ConsoleApp2\\MyprojecsApp.csproj",
+        "projectPath": "C:\\projects\\Zadaza 1\\MyprojecsApp.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\projecs\\ConsoleApp2\\obj\\",
+        "outputPath": "C:\\projects\\Zadaza 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
